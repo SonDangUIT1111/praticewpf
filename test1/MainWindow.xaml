@@ -30,6 +30,9 @@
             <Button>
                 Love you guy
             </Button>
+            <Button Grid.Column="2">
+                Love too with love love
+            </Button>
         </Grid>
     </Grid>
 </Window>
